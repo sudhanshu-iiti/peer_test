@@ -9,6 +9,6 @@ Computer vision and ROS hiring assignment
 
 # Use
 
->>ros2 run peer_test camera     (to switch ON camera)
->>ros2 run peer_test detection  (to start detection)
->>ros2 run peer_test test_video (to run test video)
+ros2 run peer_test camera     (to switch ON camera)
+ros2 run peer_test detection  (to start detection)
+ros2 run peer_test test_video (to run test video)
